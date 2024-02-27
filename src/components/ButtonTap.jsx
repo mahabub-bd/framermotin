@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-export default function ButtonTop() {
+export default function ButtonTap() {
   return (
     <div className="m-5 flex flex-col w-20 gap-2 ">
       <motion.button
